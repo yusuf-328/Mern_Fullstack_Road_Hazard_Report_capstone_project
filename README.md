@@ -14,7 +14,7 @@ This project aligns with Sustainable Development Goal (SDG) 11 – Sustainable C
 
 ## Live Demo
 
-- *Backend (API)*: [https://road-hazard-report.onrender.com](https://road-hazard-report.onrender.com)  
+- - *Backend API (JSON response)*: Use https://road-hazard-report.onrender.com/api/hazards in Postman or your app.
 - *Frontend (User Interface)*: [https://road-hazard-report-hzu77x8ae-yusufeduns-projects.vercel.app/](https://road-hazard-report-hzu77x8ae-yusufeduns-projects.vercel.app/)
 
 ## Features
